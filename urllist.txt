@@ -1,0 +1,13 @@
+https://blockchain.info/q/addressbalance/
+http://btc.blockr.io/api/v1/address/info/
+https://blockexplorer.com/api/addr/
+https://www.bitgo.com/api/v1/address/
+https://bitcoin.toshi.io/api/v0/addresses/
+https://chain.api.btc.com/v3/address/
+https://api.blocktrail.com/v1/btc/address/1NcXPMRaanz43b1kokpPuYDdk6GGDvxT2T?api_key=MY_APIKEY
+https://api.blockcypher.com/v1/btc/main/addrs/1DEP8i3QJCsomS4BSMY2RpU1upv62aGvhD/balance
+https://api-r.bitcoinchain.com/v1/address/1Chain4asCYNnLVbvG6pgCLGBrtzh4Lx4b
+https://api.kaiko.com/v1/addresses/3Nt1smucEdFks8uYQhyGvXGBuocTcMSmsT
+https://chainflyer.bitflyer.jp/v1/address/1LDWeSRJukN7zWXDBpuvB2WGsMxYE7UTnQ
+https://insight.bitpay.com/api/addr/1NcXPMRaanz43b1kokpPuYDdk6GGDvxT2T/?noTxList=1
+https://api.coinprism.com/v1/addresses/1dice97ECuByXAvqXpaYzSaQuPVvrtmz6
